@@ -3,8 +3,8 @@ from setuptools import setup
 setup(
     name='kutilities',
     version='0.1.0',
-    description='Provides template utility functions as well as generate base template files
-                 'used within web development frameworks',
+    description='Provides template utility functions as well as generate
+                'base template files used within web development frameworks',
     url='git@github.com:Kaleiko/kutilities.git',
     author='Chase Kaleikilo',
     email='code@kaleiko.net',
