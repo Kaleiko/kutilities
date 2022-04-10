@@ -5,7 +5,7 @@ setup(
     version='0.1.0',
     description='Provides template utility functions as well as generate'
                 'base teßßmplate files used within web development frameworks',
-    url='git+ssh://git@github.com/kaleiko/kutilities.git',
+    url='https://github.com/Kaleiko/kutilities',
     author='Chase Kaleikilo',
     author_email='code@kaleiko.net',
     license='MIT License',
