@@ -15,7 +15,9 @@ setup(
         'Development Status :: 1 - Planning',
         'Intended Audience :: Developers',
         'License :: Freeware',  
-        'Operating System :: POSIX :: Linux',    
+        'Operating System :: POSIX :: Linux',
+        'Operating System :: MacOS :: MacOS X',
+        'Operating System :: Microsoft :: Windows',
         'Programming Language :: Python :: 3.10',
     ],
 )
